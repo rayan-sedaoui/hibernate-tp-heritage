@@ -2,5 +2,7 @@ Ce TP montre comment enregistrer des classes Java liées par héritage (parents 
 dans une base de données avec Hibernate.
 
 
-Uploading Recording 2026-02-25 020629 (1).mp4…
+https://github.com/user-attachments/assets/39fe830d-7e35-42fa-a9e6-526400ee91ec
+
+
 
