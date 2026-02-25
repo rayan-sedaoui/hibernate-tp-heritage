@@ -6,7 +6,6 @@ https://github.com/user-attachments/assets/39fe830d-7e35-42fa-a9e6-526400ee91ec
 
 Diagramme de classe de ce Tp :
 
-```mermaid
 classDiagram
     direction BT
 
@@ -68,3 +67,8 @@ classDiagram
     }
     Livre --|> Produit : Hérite
     Electronique --|> Produit : Hérite
+
+
+
+
+    
